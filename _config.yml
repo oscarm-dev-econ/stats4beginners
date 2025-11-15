@@ -1,2 +1,4 @@
 title: Oscar’s Intro to Statistical Inference
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
+plugins: 
+  - jekyll-theme-cayman
