@@ -13,6 +13,6 @@ Short intro paragraph.
 ## Section two
 Here’s a picture:
 
-![A caption for this image](/assets/img/example.jpg)
+![A caption for this image](/assets/img/global-debt-gdp-chart.png)
 
 [About me](about.md)
