@@ -1,6 +1,6 @@
 # oscarm-dev-econ — GitHub Pages site
 
-Live site: https://oscarm-dev-econ.github.io/oscarm-dev-econ/
+Live site: https://oscarm-dev-econ.github.io/stats4beginners/
 
 This repo hosts a simple Markdown site to record statistical theory concepts for anyone to access
 
